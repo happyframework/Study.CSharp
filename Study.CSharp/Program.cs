@@ -10,7 +10,6 @@ namespace Study.CSharp
     {
         static void Main(string[] args)
         {
-
         }
     }
 }

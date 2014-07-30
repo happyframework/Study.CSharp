@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Libraries\DateTimeStudy.cs" />
+    <Compile Include="Libraries\Security\Cryptography\RSACryptoServiceProviderStudy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
